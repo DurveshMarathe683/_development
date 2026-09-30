@@ -1,1 +1,3 @@
 Just created one file in the feature branch to perform a forward merge using the 'pull' command.
+
+This file was modified, just added few words.
